@@ -1,1 +1,3 @@
-main
+main(){
+    system.out.pintln();
+}
